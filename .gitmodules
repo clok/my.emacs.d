@@ -13,3 +13,6 @@
 [submodule "less-mode"]
 	path = less-mode
 	url = git://github.com/myfreeweb/less-mode.git
+[submodule "enhanced-ruby-mode"]
+	path = enhanced-ruby-mode
+	url = git://github.com/jacott/Enhanced-Ruby-Mode.git
