@@ -16,3 +16,6 @@
 [submodule "enhanced-ruby-mode"]
 	path = enhanced-ruby-mode
 	url = git://github.com/jacott/Enhanced-Ruby-Mode.git
+[submodule "markdown-mode"]
+	path = markdown-mode
+	url = git://github.com/defunkt/markdown-mode.git
