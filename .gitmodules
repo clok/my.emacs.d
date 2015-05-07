@@ -22,3 +22,6 @@
 [submodule "perltidy-mode"]
 	path = perltidy-mode
 	url = git://github.com/emacsmirror/perltidy.git
+[submodule "web-mode"]
+	path = web-mode
+	url = git@github.com:fxbois/web-mode.git
