@@ -15,7 +15,7 @@
 	url = git://github.com/myfreeweb/less-mode.git
 [submodule "enhanced-ruby-mode"]
 	path = enhanced-ruby-mode
-	url = git://github.com:zenspider/enhanced-ruby-mode.git
+	url = git://github.com/zenspider/enhanced-ruby-mode.git
 [submodule "markdown-mode"]
 	path = markdown-mode
 	url = git://github.com/defunkt/markdown-mode.git
