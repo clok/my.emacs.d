@@ -25,3 +25,15 @@
 [submodule "web-mode"]
 	path = web-mode
 	url = git@github.com:fxbois/web-mode.git
+[submodule "haml-mode"]
+	path = haml-mode
+	url = git@github.com:nex3/haml-mode.git
+[submodule "slim-mode"]
+	path = emacs-slim
+	url = git@github.com:slim-template/emacs-slim.git
+[submodule "predictive"]
+	path = predictive
+	url = http://www.dr-qubit.org/git/predictive.git
+[submodule "emacs-rails"]
+	path = emacs-rails
+	url = git@github.com:youngnh/emacs-rails.git
