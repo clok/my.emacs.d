@@ -37,3 +37,6 @@
 [submodule "emacs-rails"]
 	path = emacs-rails
 	url = git@github.com:youngnh/emacs-rails.git
+[submodule "dockerfile-mode"]
+	path = dockerfile-mode
+	url = git@github.com:spotify/dockerfile-mode.git
