@@ -40,3 +40,9 @@
 [submodule "dockerfile-mode"]
 	path = dockerfile-mode
 	url = git@github.com:spotify/dockerfile-mode.git
+[submodule "terraform-mode"]
+	path = terraform-mode
+	url = git@github.com:syohex/emacs-terraform-mode.git
+[submodule "hcl-mode"]
+	path = hcl-mode
+	url = git@github.com:syohex/emacs-hcl-mode.git
